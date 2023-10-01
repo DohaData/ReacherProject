@@ -32,6 +32,7 @@ The Continuous_Control.ipynb is composed of multiple sections:
 8. Agent training function: agent training function definition
 9. Agent training results: to run the training function and retrieve the agent scores
 10. Agent training scores plot: plot the agent scores
+
 To run the training function, you can execute the notebook cells in order until section 9 included.
 To finetune the agent hyperparameters, you can change section 4 values.
 
