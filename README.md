@@ -35,4 +35,5 @@ The Continuous_Control.ipynb is composed of multiple sections:
 
 To run the training function, you can execute the notebook cells in order until section 9 included.
 To finetune the agent hyperparameters, you can change section 4 values.
+Running section 10 will output a plot showing agents average scores obtained through training.
 
